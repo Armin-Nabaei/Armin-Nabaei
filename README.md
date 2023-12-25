@@ -6,6 +6,3 @@
   
 
 
-Best Regards,
-Armin Nabaei
-
