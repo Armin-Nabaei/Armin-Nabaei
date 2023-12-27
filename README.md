@@ -1,5 +1,3 @@
-<img width="355" alt="Screenshot 2023-12-03 at 12 25 31 PM" src="https://github.com/Armin-Nabaei/Armin-Nabaei/assets/150948007/57e58a3c-27ec-4547-b380-32f7bb6f0292">
-
 - 👋 Hi, I’m “Armin Nabaei,” a Machine learning engineer who developed and launched the cutting-edge algorithms that power the platform’s core services. During previous years, I have created predictive models and machine learning algorithms. 
    I consistently reviewed large amounts of information to discover effective patterns and trends. Hence, I built infrastructure for training, evaluating, and serving models.
    With many years of experience in coding, I received sufficient knowledge in project experience working with Python development eco-systems, including opencv, numpy, scipy, pandas, sklearn, etc., and implementing in Keras, Tensorflow, and Pytorch frameworks. I clearly grasped introductory linear algebra, optimization, statistics, and algorithms. 
