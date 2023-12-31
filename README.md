@@ -4,5 +4,6 @@
    I have a strong understanding of machine learning methodologies, including supervised learning, forecasting, recommendation systems, generative adversarial networks, reinforcement learning, and multi-armed bandits. I used this knowledge to implement state-of-the-art models from research papers.
    My passion for R&D opportunities is to build machine learning-based tools to accelerate the solution of optimization problems encountered in real-time operation. I’m interested in solving problems of building reliable machine learning models with noisy data and data scarcity.
   
+https://www.linkedin.com/in/arminnabaei/
 
 
